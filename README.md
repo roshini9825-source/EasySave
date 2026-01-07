@@ -1,4 +1,4 @@
-# EasySave Frontend
+# EasySave 
 
 ## Overview
 
@@ -203,6 +203,12 @@ The application uses browser cookies for session management:
 - **Path**: Root (/)
 - **SameSite**: Lax
 
+
+![Uploading 2026-01-07.png…]()
+
+
+
+
 ## File Documentation
 
 ### HTML Files
@@ -366,3 +372,4 @@ For issues, questions, or contributions, please open an issue in the GitHub repo
 - Mobile-optimized responsive design
 - Accessibility improvements (ARIA labels, keyboard navigation)
 - Offline mode with local storage
+
